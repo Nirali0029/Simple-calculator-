@@ -57,7 +57,7 @@ def ans():
 
 root=Tk()
 root.title("Calculator")
-root.geometry("300x400")
+root.geometry("320x450")
 #root.resizable(0,0)
 #l1=Label(root,text="Enter value")
 #l1.grid(row=0,column=0)
